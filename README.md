@@ -2,6 +2,7 @@
 
 # About me
 I am a fan-game producer,non-commercial voice actor（JP & KR & CHS）and 3D animator
+
 University student
 
 # IASC-2P02-TeamPresentations
