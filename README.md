@@ -1,4 +1,4 @@
-# IASC-2P02 | Danby Liu & EUthanaP
+# IASC-2P02 | Danby Liu 
 
 # About me
 I am a fan-game producer,non-commercial voice actor（JP & KR & CHS）and 3D animator
