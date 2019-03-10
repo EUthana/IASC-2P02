@@ -25,4 +25,5 @@ slides/Notes go here.
 
 # Blog post assignment
 
-[click me to view the blog post]（https://github.com/EUthana/IASC-2P02/blob/master/BlogPost.md）
+[click me to view the blog post](https://github.com/EUthana/IASC-2P02/blob/master/BlogPost.md)
+
