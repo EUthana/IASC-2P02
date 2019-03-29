@@ -29,4 +29,4 @@ slides/Notes go here.
 
 # Solo presentation page
 
-[click me to view the solo-presentation](https://euthana.github.io/IASC-2P02/reval/index.html)
+[click me to view the solo-presentation](https://euthana.github.io/IASC-2P02/reveal/index.html)
