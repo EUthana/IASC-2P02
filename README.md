@@ -27,3 +27,6 @@ slides/Notes go here.
 
 [click me to view the blog post](https://euthana.github.io/IASC-2P02/BlogPost)
 
+# Solo presentation page
+
+
