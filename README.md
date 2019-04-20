@@ -7,7 +7,7 @@ Hello,this is Danby,I am a third year student in the IASC program at Brock Unive
 
 
 
-![](images/digital-huge-manatees.jpg)
+![](images/EU.jpg)
 
 # IASC-2P02-TeamPresentations
 Shared repository for IASC 2P02 team 3 presentations.
