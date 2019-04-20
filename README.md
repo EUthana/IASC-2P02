@@ -1,9 +1,13 @@
 # IASC-2P02 | Danby Liu 
 
-# About me
-I am a fan-game producer,non-commercial voice actor（JP & KR & CHS）and 3D animator
+# About me & Bio
 
-University student
+Hello,this is Danby,I am a third year student in the IASC program at Brock University.My specific research interest is media archaeology, and It means studying the process of the historical development and evolution of a media, and how it affects today’s media. This research also reflected in my projects in this portfolio, such as my featured project. In that project, I made a reserch slides which showed a history progress of an old Operating System. This project focuses on the history of the old operating system and the implications and changes for today's operating systems. In the future, I hope to continue to use this project as a game element in my  personal indie game works.
+
+
+
+
+![](images/digital-huge-manatees.jpg)
 
 # IASC-2P02-TeamPresentations
 Shared repository for IASC 2P02 team 3 presentations.
