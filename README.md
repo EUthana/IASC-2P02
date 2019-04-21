@@ -9,6 +9,7 @@ Hello,this is Danby,I am a third year student in the IASC program at Brock Unive
 
 
 # Featured Project : The Phantom of the Amiga
+![](img/cover1.jpg)
 
 
 # IASC-2P02-TeamPresentations
