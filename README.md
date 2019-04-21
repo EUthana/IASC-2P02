@@ -17,6 +17,9 @@ This is a research project about media archaeology. I chosed an old operating sy
 
 
 # Collaborative Project
+![](img/research finding/image/Palladio Graph.png)
+
+
 Shared repository for IASC 2P02 team 3 presentations.
 
  project
