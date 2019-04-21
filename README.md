@@ -11,8 +11,12 @@ Hello,this is Danby,I am a third year student in the IASC program at Brock Unive
 # Featured Project : The Phantom of the Amiga
 ![](img/cover1.jpg)
 
+Abstract:
+This is a research project about media archaeology. I chosed an old operating system which once was the most popular OS from 1991 to 1997.The reason I gave a title as 'The Phantom of the Opera'is both of them have a glorious history, and then eventually forgotten.
 
-# IASC-2P02-TeamPresentations
+
+
+# Collaborative Project
 Shared repository for IASC 2P02 team 3 presentations.
 
  project
@@ -23,17 +27,16 @@ palladio by Stanford
 
 [Palladio](https://hdlab.stanford.edu/palladio/)
 
-
- Notes
+Notes
 slides/Notes go here.
 [our slides](https://docs.google.com/presentation/d/1yaZbkcikFoIxXl-E5EmHkoj-OGK1jH4FrHXMuCH7YCM/edit#slide=id.g4b1aa37cf4_1_15)
 
 [our image using](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/tree/Team3/research%20finding/image)
 
-# Blog post assignment
+# Academic Blog
 
-[click me to view the blog post](https://euthana.github.io/IASC-2P02/BlogPost)
+[click me to view the blog ](https://euthana.github.io/IASC-2P02/BlogPost)
 
-# Solo presentation page
+# Research Presentation
 
-[click me to view the solo-presentation](https://euthana.github.io/IASC-2P02/reveal/reveal/index.html)
+[click me to view the Research Presentation](https://euthana.github.io/IASC-2P02/reveal/reveal/index.html)
