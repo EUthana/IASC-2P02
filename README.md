@@ -17,6 +17,8 @@ This is a research project about media archaeology. I chosed an old operating sy
 
 
 # Collaborative Project
+
+
 ![](img/Palladio Graph.png)
 
 
