@@ -12,7 +12,8 @@ Hello,this is Danby,I am a third year student in the IASC program at Brock Unive
 ![](img/cover1.jpg)
 
 Abstract:
-This is a research project about media archaeology. I chosed an old operating system which once was the most popular OS from 1991 to 1997.The reason I gave a title as 'The Phantom of the Opera'is both of them have a glorious history, and then eventually forgotten.
+This is a research project about media archaeology. I chosed an old operating system which once was the most popular OS from 1991 to 1997.The reason I gave a title as 'The Phantom of the Opera'is both of them have a glorious history, and then eventually forgotten.Amiga was the world's first operating system(OS) with both full color and stereo, and also was well-knowned as gaming system. Amiga OS had a game platform with same name, and it supports exclusive games over 1500 (as of 2002).In the era of gray, black and white, a full-color and stereo OS does stand out. It is no exaggeration to say that Amiga's fiery degree at that time hit two systems of Mac and Windows.
+However, after the rise of the Linux system around 2005, users began to change their mind at the same time.Choose Amiga, Windows,Linxu or Mac? Unfortunatly,Aimga is the one that was eliminated. The gaming system is indeed the highlight of Amiga and also the flaw. With the development of times, users' requirements for computers are no longer limited to office or entertainment but both. The users' drain rate is much faster than exoected, as of 2007, Amiga's number of users has dropped from 2 million to 30,000. Almost extinct for the OS, and it officially stopped updating after the 4.04 version.
 
 
 
